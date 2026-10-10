@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/c970d6b3-f0f2-4c60-af97-10110fc2f671
+**URL**: https://stockwise-inventory-demand-system.lovable.app/
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c970d6b3-f0f2-4c60-af97-10110fc2f671) and start prompting.
+Simply visit the [Lovable Project](https://stockwise-inventory-demand-system.lovable.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
